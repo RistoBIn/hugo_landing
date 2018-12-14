@@ -1,1 +1,1 @@
-# hugo_landing
+# hugo_theme_development
